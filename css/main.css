@@ -19,6 +19,9 @@ p {
 	margin-right: 0;
 	font-family:Verdana, Geneva, sans-serif;
 }
+img {
+	margin-bottom: 0.25em;
+}
 body {
 	margin: 0px auto;
 	width: 100%;
