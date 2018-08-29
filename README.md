@@ -1,1 +1,1 @@
-Ekin is a fucking nerd, lol
+Ekin is a fucking nerd
