@@ -38,6 +38,7 @@ header {
 	display: none;
 }
 section {
+	font-size: 2em;
 	display: block;
 }
 footer {
