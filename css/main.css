@@ -5,15 +5,17 @@ a {
 }
 h1 {
 	display: none;
-	font-size: 2em;
-	margin-top: 0.67em;
-	margin-bottom: 0.67em;
+	font-size: 4em;
+	margin-top: 1em;
+	margin-bottom: 1em;
 	margin-left: 0;
 	margin-right: 0;
 	font-weight: bold;
+	font-family:Verdana, Geneva, sans-serif;
 }
 p {
 	display: block;
+	font-size: 2em;
 	margin-top: 1em;
 	margin-bottom: 1em;
 	margin-left: 0;
@@ -28,8 +30,8 @@ body {
 	margin-right: 0 auto;
 	margin-left: 0 auto;    
 	width: 960px;
-	padding-right: 10px;
-	padding-left: 10px;
+	padding-right: 1em;
+	padding-left: 1em;
 }
 header {
 	display: none;
