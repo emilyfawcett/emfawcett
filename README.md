@@ -1,1 +1,1 @@
-ekin is a fucking nerd
+ekin is a lovely nerd
