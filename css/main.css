@@ -23,12 +23,13 @@ body {
 	margin: 0px auto;
 	width: 100%;
 }
-wrapper {
+.wrapper {
 }
 header {
 	display: block;
 }
 section {
+	display: block;
 }
 footer {
 	display: block;
